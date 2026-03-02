@@ -1,0 +1,25 @@
+{
+  "name": "paperforge",
+  "owner": {
+    "name": "Nitrogen216"
+  },
+  "metadata": {
+    "description": "Paperforge: tri-model parallel paper reading for Claude Code and Codex",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "paperforge",
+      "source": "./",
+      "description": "Analyze any academic paper with ChatGPT, Gemini, and Claude running in parallel, then synthesize into one English summary.",
+      "version": "0.1.0",
+      "author": {
+        "name": "Nitrogen216"
+      },
+      "homepage": "https://github.com/Nitrogen216/paperforge",
+      "repository": "https://github.com/Nitrogen216/paperforge",
+      "license": "MIT",
+      "keywords": ["research", "paper", "academic", "llm", "synthesis", "parallel"]
+    }
+  ]
+}

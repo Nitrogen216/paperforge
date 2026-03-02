@@ -1,0 +1,10 @@
+# Claude Code local settings (machine-specific, not for version control)
+.claude/
+
+# Generated paper files (created during paperforge runs)
+*.pdf
+paper.txt
+panelist_a_chatgpt.md
+panelist_b_gemini.md
+panelist_c_claude.md
+paper_summary.md

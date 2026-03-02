@@ -1,0 +1,12 @@
+{
+  "name": "paperforge",
+  "description": "Tri-model parallel paper reading: ChatGPT, Gemini, and Claude analyze any academic paper simultaneously, then synthesize into one English report.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Nitrogen216"
+  },
+  "license": "MIT",
+  "keywords": ["research", "paper", "academic", "llm", "synthesis", "parallel"],
+  "homepage": "https://github.com/Nitrogen216/paperforge",
+  "repository": "https://github.com/Nitrogen216/paperforge"
+}
