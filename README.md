@@ -60,6 +60,18 @@ A structured Markdown report with:
 - **Synthesizer's Assessment** — confidence level and what not to miss
 - **Consensus Scorecard** — table of key claims vs. each panelist
 
+## Examples
+
+The following screenshots show Paperforge's output when analyzing **"Attention Is All You Need"** (Vaswani et al., 2017 — the Transformer paper).
+
+**Report header — Paper at a Glance, Problem & Motivation, Core Innovation:**
+
+![Paperforge output: Paper at a Glance, Problem & Motivation, Core Innovation](fig/fig1.png)
+
+**Report tail — Key Takeaways, Synthesizer's Assessment, Consensus Scorecard:**
+
+![Paperforge output: Key Takeaways, Synthesizer's Assessment, Consensus Scorecard](fig/fig2.png)
+
 ## Requirements
 
 | Tool | Purpose | Install |
