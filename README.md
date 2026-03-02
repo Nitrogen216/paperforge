@@ -1,6 +1,11 @@
+<div align="center">
+  <img src="fig/logo.png" alt="Paperforge Logo" width="200"/>
+
 # Paperforge
 
 > Tri-model parallel paper reading: ChatGPT, Gemini, and Claude analyze any academic paper simultaneously, then synthesize into one triangulated English report.
+
+</div>
 
 ## Install (Claude Code)
 
@@ -27,15 +32,7 @@ curl -fsSL https://raw.githubusercontent.com/Nitrogen216/paperforge/main/skills/
 
 Paperforge sends **the same 5 questions** to three AI models **simultaneously**, then synthesizes their independent answers into a single report with consensus scoring.
 
-```
-Step 0: Extract paper.txt from PDF
-Step 1: Launch all three panelists in PARALLEL
-         ├─ Panelist A: ChatGPT  — via Oracle browser automation
-         ├─ Panelist B: Gemini   — via CLI or in-session
-         └─ Panelist C: Claude   — via CLI or in-session
-Step 2: Wait for all three to complete
-Step 3: Synthesize into one triangulated English report
-```
+![Paperforge workflow](fig/flowchart.png)
 
 | Panelist | Model | Method |
 |----------|-------|--------|
