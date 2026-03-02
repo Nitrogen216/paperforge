@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="fig/logo.png" alt="Paperforge Logo" width="200"/>
+  <img src="fig/logo.png" alt="Paperforge Logo" width="100"/>
 
-# Paperforge
+# Paperforge SKILL
 
 > Tri-model parallel paper reading: ChatGPT, Gemini, and Claude analyze any academic paper simultaneously, then synthesize into one triangulated English report.
 
